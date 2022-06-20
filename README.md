@@ -17,10 +17,9 @@
 ## You can find me here
   
   <div>
-    <a href="mailto:mdsousa.jorge@gmail.com"><img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
-    <a href="https://www.linkedin.com/in/mdsousajorge/"><img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
+    <a href = "mailto:mdsousa.jorge@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/mdsousajorge/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-  
   
   
 <!--
