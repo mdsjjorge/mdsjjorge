@@ -1,4 +1,4 @@
- # Back-end developer
+ # FullStack developer
 <div style="display: inline_block"> 
     <a href="https://www.linkedin.com/in/mdsjjorge/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
@@ -6,7 +6,7 @@
  
 ```
 - Strong passion for technology and adept in developing scalable and secure RESTful APIs;
-- Background in Spring Framework [with JAVA], Node.js, SQL language, Brazilian ERP Sankhya, and basic Front-end stacks;
+- Background in Spring Framework [with JAVA], React [with TypeScript], Node.js, SQL language, Brazilian ERP Sankhya, and basic Front-end stacks;
 ```
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsjjorge&count_private=true&show_icons=true&theme=vue&border_color=none&hide=issues) -->
