@@ -6,7 +6,7 @@
  
 ```
 - Strong passion for technology and adept in developing scalable and secure RESTful APIs;
-- Background in Spring Framework [with JAVA], React [with TypeScript], Node.js, SQL language, Brazilian ERP Sankhya, and basic Front-end stacks;
+- Background in Angular and React [with TypeScript], Nest.JS [with Node.JS and TypeScript], Spring Framework [with JAVA], SQL language, Brazilian ERP Sankhya, Docker and RabbitMQ;
 ```
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsjjorge&count_private=true&show_icons=true&theme=vue&border_color=none&hide=issues) -->
