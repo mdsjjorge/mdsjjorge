@@ -14,17 +14,20 @@
 
 <div style="display: inline_block"> 
  
-   <link align="center" alt="spring" height="46" width="50"  rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+   <link  rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-   <link align="center" alt="spring" height="46" width="50"  rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
- 
-   <link align="center" alt="spring" height="46" width="50"  rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
- 
-   <link align="center" alt="spring" height="46" width="50"  rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
- 
-   <link align="center" alt="spring" height="46" width="50"  rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
- 
-   <link align="center" alt="spring" height="46" width="50"  rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+     <i align="center" alt="spring" height="46" width="50"  class="devicon-angular-plain-wordmark"></i>
+   
+     <i align="center" alt="spring" height="46" width="50"  class="devicon-nestjs-original-wordmark"></i>
+   
+     <i align="center" alt="spring" height="46" width="50"  class="devicon-postgresql-plain-wordmark"></i>
+   
+     <i align="center" alt="spring" height="46" width="50"  class="devicon-docker-plain-wordmark"></i>
+   
+     <i align="center" alt="spring" height="46" width="50"  class="devicon-rabbitmq-plain-wordmark"></i>
+   
+     <i align="center" alt="spring" height="46" width="50"  class="devicon-redis-plain-wordmark"></i>
+          
                  
 </div>
 
